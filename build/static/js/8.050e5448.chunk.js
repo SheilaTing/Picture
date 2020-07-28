@@ -1,0 +1,2 @@
+(this.webpackJsonpepic=this.webpackJsonpepic||[]).push([[8],{344:function(e,t,i){"use strict";i.r(t);var a=i(0),n=i.n(a);t.default=function(){return n.a.createElement(n.a.Fragment,null,n.a.createElement("h1",null,"\u6e90\u7801\uff1a",n.a.createElement("a",{href:"https://github.com/SheilaTing/source-picture"},"https://github.com/SheilaTing/source-picture")),n.a.createElement("h1",null,"\u6211\u7684\u535a\u5ba2\uff1a",n.a.createElement("a",{href:"https://sheilating.gitee.io"},"https://sheilating.gitee.io"),"/"))}}}]);
+//# sourceMappingURL=8.050e5448.chunk.js.map
